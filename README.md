@@ -1,8 +1,8 @@
-UV DISINFECTION ROBOT USING RASPBERRY PI
+**UV DISINFECTION ROBOT USING RASPBERRY PI**
 
 UV Disinfection robot can be used in rooms and other indoor areas. The robot will move around every space of the room, leading to the disinfection of the whole space. The UV Disinfection robot works under the aid of the raspberry pi micro controller.The robot uses Raspberry pi Model B with a 4 GB RAM.
 
-MODEL
+**MODEL**
 
 ![Model](Images/Model.png)
 
@@ -14,10 +14,10 @@ The system has two types of sensors:
 
 The movement of the robot is facilitated by DC geared motor. It is connected to the L298N motor driver which controls the motors from the signals received from the raspberry pi micro controller. UV lamps are used for the disinfection process. The relay controls the UV lamp as and when it is required to turn ON and OFF. A rechargeable battery is used for powering the whole system.
 
-CIRCUIT DIAGRAM
+**CIRCUIT DIAGRAM**
 
 ![Circuit](Images/Circuit.png)
 
-HARDWARE SETUP
+**HARDWARE SETUP**
 
 ![hardware](Images/hardware.png)
